@@ -1,0 +1,9 @@
+*.key 
+*.pem 
+*.p12 
+.env 
+keys/ 
+secrets.h 
+.pio/ 
+.venv/ 
+__pycache__/ 
